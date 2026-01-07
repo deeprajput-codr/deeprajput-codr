@@ -1,5 +1,21 @@
-# 💫 About Me:
-🔭 I'm currently working on<br>🤝 I’m a self learner coder.<br>🌱 I’m currently learning JAVA<br>⚡ Fun fact
+# 💫 Hi 👋, I'm Deepanshu Rajput
+<h2 align="center"> 💬 About me 👁️‍🗨️ </h2>
+
+<!-- <img align="left" src="https://raw.githubusercontent.com/keta1/keta1/main/pic/00.webp" width="120px"/>  -->
+
+```csharp
+My Profile
+-------------------------------
+Name: Deepanshu Rajput.
+WhoamI: College Student .
+Gender: Male.
+Location: India.
+Hobbies: Gaming, and create game.
+Languages: JavaScript, Css, Html, JAVA.
+Learning: Computer Science.
+Telegram: @Dreep13.
+```
+<br>
 
 
 ## 🌐 Socials:
@@ -11,6 +27,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=deeprajput-codr&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=deeprajput-codr&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deeprajput-codr&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=deeprajput-codr&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
