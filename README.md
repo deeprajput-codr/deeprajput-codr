@@ -21,8 +21,15 @@ Telegram: @Dreep13.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/13_dreep) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codeindeepc@gmail.com) 
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+# 💻 Tech Stack:<br> </br>
+<h2 align="center"><b>⚒️ Languages-Frameworks-Tools 🛠️</b></h2>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+alt="JavaScript" width="60" height="60" /> </a>
+<a href="https://www.css3.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/> </a> 
+<a href="https://www.html.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/> </a> 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=deeprajput-codr&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=deeprajput-codr&theme=github_dark&hide_border=false)<br/>
@@ -46,5 +53,20 @@ Telegram: @Dreep13.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=deeprajput-codr&icon=2&color=13)](https://visitcount.itsvg.in)
+<div>
+<h2 align="center">View counter 👀</h2>
+<div align="center">
+<img src="https://moe-counter.glitch.me/get/@deeprajput-codr ?theme=gelbooru" />
+  </div>
+<br>
+
+
+<br>
+<div>
+<h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
+<div>
+<!-- <img src="https://i.imgur.com/YxM2GOv.jpeg" align="center" /> -->
+  </div>
+<br> 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
